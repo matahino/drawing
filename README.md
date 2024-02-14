@@ -6,9 +6,9 @@ How to create an application that works in such an environment:https://github.co
 
 
 1.Author: Azwel<br>
-![image](https://github.com/matahino/drawing/assets/96413690/20f2b01e-15e9-4eb2-bdbe-91bc3260cb90) 
+![image](https://github.com/matahino/drawing/assets/96413690/20f2b01e-15e9-4eb2-bdbe-91bc3260cb90) <br>
 2.Author: Azwel<br>
-![image](https://github.com/matahino/drawing/assets/96413690/0921e6e2-cfdf-42e8-a5eb-012323a3ff7b)
+![image](https://github.com/matahino/drawing/assets/96413690/0921e6e2-cfdf-42e8-a5eb-012323a3ff7b) <br>
 
 3.Author: Azwel<br><br>
 ![image](https://github.com/matahino/drawing/assets/96413690/90a1ad73-c433-43aa-aea2-5a399cd67846)<br><br>
